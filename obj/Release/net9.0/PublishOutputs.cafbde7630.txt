@@ -1,0 +1,7 @@
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\LearningApp.exe
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\appsettings.json
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\LearningApp.dll
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\LearningApp.deps.json
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\LearningApp.runtimeconfig.json
+C:\Users\jonvazqu\OneDrive - Grupo Triple-S\Documents\Jonathan\AZ-204 HandsOn\chapter2\LearningApp\bin\Release\net9.0\publish\LearningApp.pdb
